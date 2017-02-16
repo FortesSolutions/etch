@@ -1,0 +1,8 @@
+{
+  "name"            : "etch",
+  "version"         : "0.6.3",
+  "main"            : "scripts/etch.js",
+  "description"     : "Etch is a content editor built on Backbone.js and is designed to be easily plugged into your Backbone app or stand alone.",
+  "devDependencies" : {
+  }
+}
